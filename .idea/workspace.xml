@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edc65d05-9629-4e95-ad05-780a83d254bb" name="Changes" comment=".">
+    <list default="true" id="edc65d05-9629-4e95-ad05-780a83d254bb" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/learn_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/components/DimaComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/components/MyComponents.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn_2/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +32,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AngryFox00&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AngryFox00/LearnOne.git&quot;,
+    &quot;accountId&quot;: &quot;e5b4fc20-c221-4067-a500-a6b3bd2ea2c0&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -96,7 +125,7 @@
       <workItem from="1735217918285" duration="6951000" />
       <workItem from="1735313540892" duration="10917000" />
       <workItem from="1735329373009" duration="469000" />
-      <workItem from="1735400193275" duration="12420000" />
+      <workItem from="1735400193275" duration="15656000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -106,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735329658907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1735413328275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735413328275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
