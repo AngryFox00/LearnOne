@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edc65d05-9629-4e95-ad05-780a83d254bb" name="Changes" comment="." />
+    <list default="true" id="edc65d05-9629-4e95-ad05-780a83d254bb" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learn_5" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -35,7 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Code/react_course&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -70,6 +72,7 @@
       <recent name="C:\Code\react_course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\react_course\learn_1\public" />
       <recent name="C:\Code\react_course\learn_4" />
     </key>
   </component>
@@ -93,7 +96,7 @@
       <workItem from="1735217918285" duration="6951000" />
       <workItem from="1735313540892" duration="10917000" />
       <workItem from="1735329373009" duration="469000" />
-      <workItem from="1735400193275" duration="10240000" />
+      <workItem from="1735400193275" duration="12420000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
